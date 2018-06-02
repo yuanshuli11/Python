@@ -1,2 +1,2 @@
 # -*- coding:utf-8-*-
-print 'OK'
+print 'OK,haha,chongtula'
