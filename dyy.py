@@ -1,4 +1,4 @@
 # -*- coding:utf-8-*-
 print 'OK,haha,chongtula'
-print 'OK,hello,github'
 print 'hello,again.'
+print 'hello,banxian'
